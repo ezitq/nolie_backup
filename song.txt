@@ -10,3 +10,13 @@ I hate my life)
 
 
 
+<<<<<<< HEAD
+=======
+I am play dota every day
+I have no life :)
+
+Do I wanna stop to play?
+No, I enjoy it maybe../
+
+
+>>>>>>> f3a3eb2feb5533171da8ec581316f08aae616aac
